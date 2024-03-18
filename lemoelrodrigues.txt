@@ -1,7 +1,6 @@
 
-# Exercício 
-
-## LEMOEL RODRIGUES NASCIMENTO
+# ExercIcio 
+LEMOEL RODRIGUES NASCIMENTO
 
 ## [0.0.1] - 2024-03-18
 
